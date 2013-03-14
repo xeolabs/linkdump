@@ -3,7 +3,7 @@ linkdump
 
 A list of links to things on the Web I find useful
 
-## online Formatters
+## Online Formatters
 
 * [JSON formatter](http://www.freeformatter.com/json-formatter.html#ad-output)
 
