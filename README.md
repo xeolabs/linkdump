@@ -23,4 +23,5 @@ A list of links to things on the Web I find useful
 * [jsFiddle API Docs](http://doc.jsfiddle.net/api/post.html)
 
 # Cool ideas
-## [3D controls in THREE.js](http://aleksandarrodic.com/p/three/examples/misc_controls_transform.html)
+## Interaction
+* [3D controls in THREE.js](http://aleksandarrodic.com/p/three/examples/misc_controls_transform.html)
